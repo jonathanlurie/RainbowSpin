@@ -10,4 +10,8 @@ Like on this picture, 5v to 5v, GND to GND and whatever digital pin to the ring 
 You need to import the [Neopixel library by Adafruit](https://github.com/adafruit/Adafruit_NeoPixel) and then, upload.
 
 ## How it looks Like
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_ERqZk8B3Uk" frameborder="0" allowfullscreen></iframe>
+See the **[VIDEO](https://www.youtube.com/watch?v=_ERqZk8B3Uk#action=share)** on youtube.
+
+![](snap2.png)
+
+I used a Petri dish to enclose the Neopixel part, and a analog film tube to put the Arduino. I stuck a circle-shaped piece of paper inside the top part of the dish, so that the light gets more diffused, the idea being to use it a bicycle rear light :)
