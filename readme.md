@@ -2,7 +2,7 @@
 This is a simple color ring with spinning colors. It uses Adafruit Neopixel and a Arduino micro but since it's very simple, the board model does not really matter.
 
 ## Wiring
-Like on this picture, 5v to 5v, GND to GND and whatever digital pin to the ring INPUT. Here, I used pin 6.
+Like on this picture, 5v to 5v, GND to GND and whatever digital pin to the ring INPUT. Here, I used pin 7.
 
 ![](snap.png)
 
